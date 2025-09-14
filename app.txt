@@ -1,2 +1,3 @@
 Hello from main footer section and header section
+Hello from menu
 
